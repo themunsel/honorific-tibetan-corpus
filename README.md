@@ -13,6 +13,10 @@ http://degegws.com/%E0%BD%9E%E0%BD%BA%E0%BC%8B%E0%BD%A6%E0%BD%A0%E0%BD%B2%E0%BC%
 https://www.sherig.org/tb/%E0%BD%91%E0%BD%BA%E0%BD%96%E0%BC%8B%E0%BD%81%E0%BD%82/%E0%BD%A2%E0%BE%A9%E0%BD%BC%E0%BD%98%E0%BC%8B%E0%BD%A6%E0%BE%92%E0%BE%B2%E0%BD%B2%E0%BD%82%E0%BC%8B%E0%BD%9A%E0%BD%93%E0%BC%8B%E0%BD%94%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%91%E0%BD%BA%E0%BD%96%E0%BC%8B/%E0%BD%9E%E0%BD%BA%E0%BC%8B%E0%BD%A6%E0%BD%A0%E0%BD%B2%E0%BC%8B%E0%BD%A2%E0%BE%A3%E0%BD%98%E0%BC%8B%E0%BD%A0%E0%BD%96%E0%BE%B1%E0%BD%BA%E0%BD%91%E0%BC%8D/%E0%BD%96%E0%BD%BC%E0%BD%91%E0%BC%8B%E0%BD%80%E0%BE%B1%E0%BD%B2%E0%BC%8B%E0%BD%9E%E0%BD%BA%E0%BC%8B%E0%BD%A6%E0%BC%8D/
 
 
+Professor Tsering Wangdu's Lecture on Respect and the Use of Honorifics in Tibetan
+https://audio-video.shanti.virginia.edu/video/professor-tsering-wangdus-lecture-respect-and-use-honorifics-tibetan
+
+
 Respecting 2 ཞེ་ས་སློབ་ཐུན་གཉིས་པ།
 https://www.youtube.com/watch?v=HI4pTgtkv3M
 
