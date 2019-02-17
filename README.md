@@ -1,3 +1,4 @@
+
 # Munsel Tibetan Honorific Resource 
 
 This is collection of resource on  **Tibetan Honorific Corpus**. We don't have copyright to any of the following resources. 
@@ -227,18 +228,17 @@ This is collection of resource on  **Tibetan Honorific Corpus**. We don't have c
 
 |Title |Website Link  |
 |--|--|
-
-| bartee-e-droma-n-a-beginning-textbook-of-lhasa-tibetan-2000.pdf | https://learntibetian.files.wordpress.com/2011/11/bartee-e-droma-n-a-beginning-textbook-of-lhasa-tibetan-2000.pdf  |
+| bartee-e-droma-n-a-beginning-textbook-of-lhasa-tibetan-2000.pdf | [Book Link ](https://learntibetian.files.wordpress.com/2011/11/bartee-e-droma-n-a-beginning-textbook-of-lhasa-tibetan-2000.pdf)  |
 | བོད་ཀྱི་ཞེ་ས།| http://bit.ly/2NaCcaN |
 | ཞེ་སའི་ཚིག་མཛོད།| http://bit.ly/2Ee42Ae |
-| Professor Tsering Wangdu's Lecture on Respect and the Use of Honorifics in Tibetan| https://audio-video.shanti.virginia.edu/video/professor-tsering-wangdus-lecture-respect-and-use-honorifics-tibetan|
+| Professor Tsering Wangdu's Lecture on Respect and the Use of Honorifics in Tibetan| [Video Link ](https://audio-video.shanti.virginia.edu/video/professor-tsering-wangdus-lecture-respect-and-use-honorifics-tibetan)|
 | Respecting 2 ཞེ་ས་སློབ་ཐུན་གཉིས་པ།| https://youtu.be/HI4pTgtkv3M|
 | ཞེ་ས།| http://tb.tibet.cn/2010wx/sw/201408/t20140822_2015339.htm|
-| བོད་ཀྱི་ཞེ་ས།| https://the-eye.eu/public/Books/Buddhism/Snow%20Lion%20Publications%20Manual%20of%20Standard%20Tibetan%2C%20Language%20and%20Civilization%20%282005%29%20%28Scan%2C%20OCR%29.pdf |
+| བོད་ཀྱི་ཞེ་ས།|  [Snow line publication](https://the-eye.eu/public/Books/Buddhism/Snow%20Lion%20Publications%20Manual%20of%20Standard%20Tibetan,%20Language%20and%20Civilization%20%282005%29%20%28Scan,%20OCR%29.pdf) |
 | བོད་ཀྱི་ཞེ་ས།| https://en.wiktionary.org/wiki/Category:Tibetan_honorific_terms|
 | བོད་ཀྱི་ཞེ་ས།| https://www.jstor.org/stable/30028513?seq=1#page_scan_tab_contents|
-| བོད་ཀྱི་ཞེ་ས།| https://books.google.com/books?id=L09yvr4VgHcC&pg=PA158&lpg=PA158&dq=honorific+tibetan&source=bl&ots=4_JE82z3I4&sig=ACfU3U30cUfJbwNI0Qyeyv9gZ5gOvElRWA&hl=en&sa=X&ved=2ahUKEwjGv9-lu5fgAhXZJjQIHQb9AX04ChDoATAAegQIChAB#v=onepage&q=honorific%20tibetan&f=false |
-| Tibetan honorific Tibetan Chinese-English Manual [Paperback] Paperback – 1991| https://www.amazon.com/Tibetan-honorific-Chinese-English-Manual-Paperback/dp/7223014113|
+| བོད་ཀྱི་ཞེ་ས།| [Honorific Book Link ](https://books.google.com/books?id=L09yvr4VgHcC&pg=PA158&lpg=PA158&dq=honorific%20tibetan&source=bl&ots=4_JE82z3I4&sig=ACfU3U30cUfJbwNI0Qyeyv9gZ5gOvElRWA&hl=en&sa=X&ved=2ahUKEwjGv9-lu5fgAhXZJjQIHQb9AX04ChDoATAAegQIChAB#v=onepage&q=honorific%20tibetan&f=false) |
+| Tibetan honorific Tibetan Chinese-English Manual [Paperback] Paperback – 1991| [Amazon Book Link ](https://www.amazon.com/Tibetan-honorific-Chinese-English-Manual-Paperback/dp/7223014113)|
 | Tibetan Oral History Archive Project| http://bit.ly/2SXdRL5 |
 | Book on Sheysa| http://bit.ly/2Bz2QFV |
 | བོད་ཀྱི་ཞེ་ས།| https://case.edu/affil/tibet/documents/English-TibetanDictionaryofModernTibet_001.pdf|
