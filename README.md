@@ -27,8 +27,6 @@ This is collection of resource on  **Tibetan Honorific Corpus**. We don't have c
 
 ## Examples From Site. 
 
-ཞེ་སའི་ཚིག་མཛོད།
-
 ཞེ་སའི་ཚིག་མཛོད། Vocabulary of honorific terms
 
 | ཨང༌། |ཞེ་ས། |ཕལ་སྐད། |  དབྱིན་སྐད།|
